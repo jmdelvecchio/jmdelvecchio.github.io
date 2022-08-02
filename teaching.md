@@ -35,7 +35,7 @@ Before the start of class, I asked my students to rank their agreement with the 
 | I am comfortable extracting key points from scientific journal articles | 4.5 | 4.6 |
 | I am comfortable communicating why my field of study is broadly important to society | 4.5 | 4.6 |
 | I am comfortable translating a word problem describing the natural world into an appropriate algebraic expression | 3.9 | 3.9 | 
-| <b>Course average |<b> 3.6 | <b>4.4 | </b>
+| <b>Course average</b> |<b> 3.6 </b>| <b>4.4 </b>| 
 
 
 
