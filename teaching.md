@@ -3,7 +3,15 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-# Teaching 
+# Teaching and research mentoring
+Table of contents:
+<!---1. [EARS33](## EARS33)--->
+<!----2. [WISP] (## WISP)--->
+<!---3. [Undergraduate researchers] (## Undergraduate researchers)--->
+  * [EARS33](#ears33)
+  * [WISP](#wisp)
+  * [Undergraduate researchers](#undergraduate-researchers)
+
 
 ## EARS33
 For Spring 2022, I wanted to modify the existing Surface Processes course to incorporate the skills necessary for students to succeed in the modern, data-driven geosciences. My course learning goals were:
@@ -37,6 +45,8 @@ Before the start of class, I asked my students to rank their agreement with the 
 | I am comfortable translating a word problem describing the natural world into an appropriate algebraic expression | 3.9 | 3.9 | 
 | <b>Course average</b> |<b> 3.6 </b>| <b>4.4 </b>| 
 
+## WISP
 
+## Undergraduate researchers
 
 
