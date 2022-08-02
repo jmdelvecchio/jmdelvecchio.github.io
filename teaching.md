@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Teaching"
 permalink: /teaching/
 
 This is a page to detail my teaching portfolio
