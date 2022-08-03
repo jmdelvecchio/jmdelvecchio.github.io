@@ -19,8 +19,8 @@ For Spring 2022, I wanted to modify the existing Surface Processes course to inc
 2. Give examples of diffusive versus advective processes and how they affect hillslope morphology.
 3. Explain why understanding channels and their behavior is fundamental to geomorphology.
 4. Identify features, landforms, and deposits associated with different geomorphic processes (e.g., glacial, periglacial, aeolian, volcanic, tectonic, fluvial)
-5. <b>Practice extracting key takeaways and outstanding knowledge gaps from scientific journal articles, and communicating those concepts in written and oral form to a nonspecialized audience
-6. Practice acquiring, analyzing and plotting landscape data from computer models and databases </b>
+5. <b>Practice extracting key takeaways and outstanding knowledge gaps from scientific journal articles, and communicating those concepts in written and oral form to a nonspecialized audience</b>
+6. <b>Practice acquiring, analyzing and plotting landscape data from computer models and databases </b>
 
 (<i><b>Bold</b> objectives new to Spring 2022</i>)
 
